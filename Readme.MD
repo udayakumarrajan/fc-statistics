@@ -15,8 +15,8 @@ We would like you to build a restful API that provides field conditions insights
 	2. Spring boot 2.x
 	3. Spring WebFlux
 	4. MapStruct 1.3.0
-	3. JPA
-	4. H2 Database
+	5. JPA
+	6. H2 Database
 
 	
 ## How to Run and Build
