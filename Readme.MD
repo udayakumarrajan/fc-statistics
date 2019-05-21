@@ -143,4 +143,4 @@ Its recommended to compile and start the application through terminal. if you ar
 
 Please find the below link to IDE support of  mapstrct to process annotation based auto generated code,
 
-![IDE Support](http://mapstruct.org/documentation/ide-support/ "mapstruct IDE support")
+[IDE Support](http://mapstruct.org/documentation/ide-support/ "mapstruct IDE support")
