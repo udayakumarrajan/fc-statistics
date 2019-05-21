@@ -114,13 +114,13 @@ Once the server is started, we can test this API in **_three ways_**.
       "type": "object",
       "properties": {
         "avg": {
-          "type": "integer"
+          "type": "double"
         },
         "max": {
-          "type": "integer"
+          "type": "double"
         },
         "min": {
-          "type": "integer"
+          "type": "double"
         }
       },
       "required": [
