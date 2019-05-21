@@ -1,0 +1,20 @@
+server:
+     port: 8080
+     servlet:
+      context-path: /fcs
+
+fcs :
+  statistics :
+    days : -30          
+
+spring:
+  h2:
+    console:
+      enabled: true
+  jpa:
+    show-sql: true
+    hibernate:
+      ddl-auto: create-drop
+      order_inserts : true
+      jdbc:
+        batch_size: 2

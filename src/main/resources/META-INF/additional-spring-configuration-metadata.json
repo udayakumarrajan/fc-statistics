@@ -1,0 +1,17 @@
+{"properties": [
+  {
+    "name": "spring.jpa.hibernate.order_inserts",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.jpa.hibernate.order_inserts'"
+  },
+  {
+    "name": "spring.jpa.hibernate.jdbc.batch_size",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.jpa.hibernate.jdbc.batch_size'"
+  },
+  {
+    "name": "fcs.statistics.days",
+    "type": "java.lang.String",
+    "description": "A description for 'fcs.statistics.days'"
+  }
+]}
